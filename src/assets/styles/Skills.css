@@ -1,0 +1,17 @@
+/* src/assets/styles/Skills.css */
+.skills {
+    padding: 2rem;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills li {
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+  
